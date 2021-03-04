@@ -2,4 +2,4 @@
 
 paragraph of new demo
 
-  *This is going to be an item
+  * This is going to be an item
